@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 @font-face {
     font-family: "Montserrat";
     src: url(../fonts/Montserrat-VariableFont_wght.ttf);
@@ -26,15 +24,11 @@
 }
 
 /* CSS RESET */
->>>>>>> Stashed changes
 body, img, h1,fieldset,legend, label, input, select, textarea,button{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-<<<<<<< Updated upstream
-=======
 
 
->>>>>>> Stashed changes
